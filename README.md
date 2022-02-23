@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Harshad--01629954/)](https://www.linkedin.com/in/harshad-padaya-02b2b2232/)
+[![Linkedin Badge](https://img.shields.io/badge/-Harshad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Harshad--01629954/)](https://www.linkedin.com/in/harshad-padaya-02b2b2232/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Harshad-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Harshad-yellow)](https://stackoverflow.com/users/18260291/harshad-padaya)
 
